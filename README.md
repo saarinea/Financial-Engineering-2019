@@ -1,1 +1,1 @@
-For examination of code, see ArttuSaarinen246061.ipynb or download the CodeAndResults.html and open in your browser.
+For examination of code, download the CodeAndResults.html and open in your browser. ArttuSaarinen246061.ipynb doesn't work that well on Github for some reason, although it should be possible to view as well. 
